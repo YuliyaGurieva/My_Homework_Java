@@ -1,4 +1,4 @@
-package level_1;
+package src.level_1;
 
 public class TaskThree {
     public static void main(String[] args) {

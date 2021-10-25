@@ -1,4 +1,4 @@
-package all_animals;
+package src.all_animals;
 
 public class Rabbit extends Animals {
     @Override

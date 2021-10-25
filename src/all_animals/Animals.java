@@ -1,4 +1,4 @@
-package all_animals;
+package src.all_animals;
 
 public abstract class Animals {
     String voice = "anysound";

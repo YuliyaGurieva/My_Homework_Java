@@ -1,4 +1,4 @@
-package all_animals;
+package src.all_animals;
 
 public class ListeningToAnimals {
     public static void main (String [] args) {
